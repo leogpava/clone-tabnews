@@ -1,5 +1,5 @@
 function Home() { 
-    return <h1>Nicole, eu amo você.</h1>
+    return <h1>leogpava.com.br</h1>
 }
 
 export default Home
